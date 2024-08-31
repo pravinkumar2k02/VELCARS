@@ -1,0 +1,37 @@
+Review form
+maintain productcontext
+account page
+ to maintain and close account
+ to view their review
+search for records
+
+
+
+user account - login / signup form ✔️
+remove car from user wishlist if a car is sold ✔️
+add buyer id to sold to: in products to show buyer details ✔️
+create a component to show buyer details and generate pdf ✔️
+mark car as unsold when it is removed to buyer record ✔️
+mark car as sold when it is added to buyer record ✔️
+dont show any sold cars ✔️
+protect routes ✔️
+show no heart for admin and not logged in ✔️
+delete car ✔️
+update user wishlist if a car is deleted by admin ✔️
+handlepreview in addcar ✔️
+remove from wishlist page ✔️
+Add from with validation ✔️
+Update form with validation ✔️
+Seller form - delete , Update ✔️
+Buyer form, delete, Update ✔️
+set all products state in home component ✔️
+authorization ✔️
+
+
+
+
+search
+add car model
+
+tcs 
+eco register
